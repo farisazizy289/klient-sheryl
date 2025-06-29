@@ -1,5 +1,8 @@
 [
-  { "id": "1", "name": "Algoritma dan Pemrograman", "sks": 3 },
-  { "id": "2", "name": "Basis Data", "sks": 3 },
-  { "id": "3", "name": "Jaringan Komputer", "sks": 2 }
+  { "id": "1", "name": "Kecerdasan Buatan", "sks": 3 },
+  { "id": "2", "name": "Pemrograman Sisi Klient", "sks": 2 },
+  { "id": "3", "name": "Algoritma dan Pemrograman", "sks": 4 },
+  { "id": "4", "name": "Basis Data", "sks": 3 },
+  { "id": "5", "name": "Jaringan Komputer", "sks": 2 },
+  { "id": "6", "name": "Pemrograman Sisi Server", "sks": 2 }
 ]
